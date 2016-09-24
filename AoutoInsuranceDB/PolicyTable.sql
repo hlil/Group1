@@ -10,5 +10,3 @@ CREATE TABLE [policy](
 	[AdditionalInfo] [text] NULL,
 	[CreatedDate] [datetime] NULL
 )
-Drop table polisies
-GO
