@@ -9,4 +9,6 @@ CREATE TABLE [policy](
 	[Active] [real] NULL,
 	[AdditionalInfo] [text] NULL,
 	[CreatedDate] [datetime] NULL
+	
 )
+Go
